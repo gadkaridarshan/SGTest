@@ -1,8 +1,10 @@
 # Card Inventory
 
+- Sep 26, 2026, 6:52:43 AM CDT | USER-176000 | done | development | Configure Python Dependencies
+- Sep 26, 2026, 6:52:35 AM CDT | USER-90000 | in_progress | development | FCF Depreciation Adjustment
+- Sep 26, 2026, 6:52:35 AM CDT | USER-401000 | in_progress | testing | FCF Model Tests
+- Sep 26, 2026, 6:52:30 AM CDT | USER-988000 | todo | development | FCF Calculation Engine
 - Sep 26, 2026, 6:51:10 AM CDT | USER-98000 | done | development | FCF Model Computation
-- Sep 26, 2026, 6:51:04 AM CDT | USER-988000 | in_progress | development | FCF Calculation Engine
-- Sep 26, 2026, 6:50:53 AM CDT | USER-176000 | in_progress | development | Configure Python Dependencies
 - Sep 26, 2026, 6:50:04 AM CDT | USER-851000 | todo | development | FCF Data Pipeline
 - Sep 26, 2026, 6:50:04 AM CDT | USER-304000 | closed_incomplete | development | FCF Spreadsheet Model
 - Sep 26, 2026, 6:49:37 AM CDT | USER-202000 | in_progress | development | FCF Model Application
@@ -10,13 +12,11 @@
 - Sep 26, 2026, 6:46:38 AM CDT | USER-407000 | in_progress | development | FCF Model Structure
 - Sep 26, 2026, 6:45:44 AM CDT | USER-449000 | closed_incomplete | development | Scaffold Python Project
 - Sep 26, 2026, 6:45:19 AM CDT | USER-759000 | closed_incomplete | development | FCF Computation Engine
-- Sep 26, 2026, 6:44:40 AM CDT | USER-90000 | in_progress | development | FCF Depreciation Adjustment
 - Sep 26, 2026, 6:42:08 AM CDT | USER-972000 | closed_incomplete | development | FCF Google Sheets Model Structure
 - Sep 26, 2026, 6:40:59 AM CDT | USER-85000 | closed_incomplete | development | Generate FCF Spreadsheet Model
 - Sep 26, 2026, 6:40:59 AM CDT | USER-6000 | closed_incomplete | development | Implement FCF Python Calculator
 - Sep 26, 2026, 6:40:43 AM CDT | USER-814000 | in_progress | development | Configure Python Project
 - Sep 26, 2026, 6:40:43 AM CDT | USER-8000 | in_progress | development | Build FCF Calculation Logic
-- Sep 26, 2026, 6:40:43 AM CDT | USER-401000 | in_progress | testing | FCF Model Tests
 - Sep 26, 2026, 6:39:39 AM CDT | USER-76000 | in_progress | development | Orchestrate FCF Pipeline
 - Sep 26, 2026, 6:39:06 AM CDT | USER-850000 | closed_incomplete | development | Implement FCF Google Sheets Model
 - Sep 26, 2026, 6:38:41 AM CDT | USER-324000 | in_progress | development | Sheets Model Population
