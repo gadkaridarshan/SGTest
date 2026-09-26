@@ -1,5 +1,13 @@
 {
-  "credentials_file": "credentials.json",
-  "spreadsheet_title": "Free Cash Flow Analysis",
-  "tabs": ["Assumptions", "Operating Cash Flow", "Capex", "Free Cash Flow Summary"]
+    "project_name": "sgtest-fcf-model",
+    "version": "0.1.0",
+    "sheets": {
+        "spreadsheet_title": "FCF Model",
+        "tabs": ["Assumptions", "Revenue", "Expenses", "FCF"]
+    },
+    "google": {
+        "credentials_path": "credentials.json",
+        "scopes": ["https://www.googleapis.com/auth/spreadsheets"],
+        "redirect_uri": "http://localhost:8080/callback"
+    }
 }

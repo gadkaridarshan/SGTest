@@ -1,4 +1,1 @@
-google-api-python-client==2.156.0
-google-auth-httplib2==0.2.0
-google-auth-oauthlib==1.2.1
-gspread==6.2.0
+All three dependency files are now configured with the complete set of packages for Google Sheets API access and data processing.

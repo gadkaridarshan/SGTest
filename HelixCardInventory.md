@@ -1,11 +1,38 @@
 # Card Inventory
 
+- Sep 26, 2026, 6:48:46 AM CDT | USER-628000 | done | development | FCF Python Sheets Generator
+- Sep 26, 2026, 6:48:43 AM CDT | USER-176000 | in_progress | development | Configure Python Dependencies
+- Sep 26, 2026, 6:48:38 AM CDT | USER-98000 | in_progress | development | FCF Model Computation
+- Sep 26, 2026, 6:47:01 AM CDT | USER-202000 | todo | development | FCF Model Application
+- Sep 26, 2026, 6:46:38 AM CDT | USER-407000 | in_progress | development | FCF Model Structure
+- Sep 26, 2026, 6:45:44 AM CDT | USER-449000 | closed_incomplete | development | Scaffold Python Project
+- Sep 26, 2026, 6:45:19 AM CDT | USER-759000 | closed_incomplete | development | FCF Computation Engine
+- Sep 26, 2026, 6:44:40 AM CDT | USER-90000 | in_progress | development | FCF Depreciation Adjustment
+- Sep 26, 2026, 6:42:08 AM CDT | USER-972000 | closed_incomplete | development | FCF Google Sheets Model Structure
+- Sep 26, 2026, 6:40:59 AM CDT | USER-85000 | closed_incomplete | development | Generate FCF Spreadsheet Model
+- Sep 26, 2026, 6:40:59 AM CDT | USER-6000 | closed_incomplete | development | Implement FCF Python Calculator
+- Sep 26, 2026, 6:40:43 AM CDT | USER-814000 | in_progress | development | Configure Python Project
+- Sep 26, 2026, 6:40:43 AM CDT | USER-8000 | in_progress | development | Build FCF Calculation Logic
+- Sep 26, 2026, 6:40:43 AM CDT | USER-401000 | in_progress | testing | FCF Model Tests
+- Sep 26, 2026, 6:39:39 AM CDT | USER-76000 | in_progress | development | Orchestrate FCF Pipeline
+- Sep 26, 2026, 6:39:06 AM CDT | USER-850000 | closed_incomplete | development | Implement FCF Google Sheets Model
+- Sep 26, 2026, 6:38:41 AM CDT | USER-324000 | in_progress | development | Sheets Model Population
+- Sep 26, 2026, 6:38:40 AM CDT | USER-179000 | in_progress | development | Project Configuration
+- Sep 26, 2026, 6:38:40 AM CDT | USER-127000 | in_progress | development | FCF Depreciation Logic
+- Sep 26, 2026, 6:38:06 AM CDT | USER-399000 | in_progress | development | Create FCF Model Sheets
+- Sep 26, 2026, 6:35:40 AM CDT | USER-311000 | closed_incomplete | development | FCF Google Sheets Template
+- Sep 26, 2026, 6:34:37 AM CDT | USER-190000 | in_progress | development | Setup Google Sheets connection
+- Sep 26, 2026, 6:34:36 AM CDT | USER-372000 | in_progress | development | Build FCF calculation model
+- Sep 26, 2026, 6:34:11 AM CDT | USER-382000 | closed_incomplete | development | FCF Main Application
+- Sep 26, 2026, 6:33:42 AM CDT | USER-671000 | in_progress | development | Populate FCF Data Sheets
+- Sep 26, 2026, 6:33:42 AM CDT | USER-618000 | in_progress | development | FCF Calculation Model
+- Sep 26, 2026, 6:33:42 AM CDT | USER-174000 | in_progress | development | Google Sheets Integration
+- Sep 26, 2026, 6:33:08 AM CDT | USER-988000 | in_progress | development | FCF Calculation Engine
+- Sep 26, 2026, 6:33:08 AM CDT | USER-220000 | in_progress | development | Implement Google Sheets Client
+- Sep 26, 2026, 6:27:52 AM CDT | USER-279000 | closed_incomplete | development | Create FCF Model Template
+- Sep 26, 2026, 6:26:53 AM CDT | USER-340000 | closed_incomplete | development | Google Sheets Model Builder
+- Sep 26, 2026, 6:26:32 AM CDT | USER-458000 | in_progress | development | FCF Sheet Integration
 - Sep 26, 2026, 6:24:12 AM CDT | USER-52000 | done | development | Define FCF Input Parameters
-- Sep 26, 2026, 6:24:09 AM CDT | USER-399000 | in_progress | development | Create FCF Model Sheets
-- Sep 26, 2026, 6:24:09 AM CDT | USER-372000 | in_progress | development | Build FCF calculation model
-- Sep 26, 2026, 6:24:02 AM CDT | USER-449000 | todo | development | Scaffold Python Project
-- Sep 26, 2026, 6:24:02 AM CDT | USER-220000 | todo | development | Implement Google Sheets Client
-- Sep 26, 2026, 6:22:20 AM CDT | USER-190000 | in_progress | development | Setup Google Sheets connection
 - Sep 26, 2026, 6:22:20 AM CDT | USER-1790403580210 | in_progress | development | Add ability to adjust depreciation in the model
 - Sep 26, 2026, 6:22:00 AM CDT | USER-478000 | closed_incomplete | development | Define FCF Input Parameters
 - Sep 26, 2026, 6:21:09 AM CDT | USER-392000 | closed_incomplete | development | Create free cash flow sheets
