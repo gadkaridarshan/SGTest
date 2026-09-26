@@ -1,9 +1,12 @@
 # Card Inventory
 
+- Sep 26, 2026, 6:51:10 AM CDT | USER-98000 | done | development | FCF Model Computation
+- Sep 26, 2026, 6:51:04 AM CDT | USER-988000 | in_progress | development | FCF Calculation Engine
+- Sep 26, 2026, 6:50:53 AM CDT | USER-176000 | in_progress | development | Configure Python Dependencies
+- Sep 26, 2026, 6:50:04 AM CDT | USER-851000 | todo | development | FCF Data Pipeline
+- Sep 26, 2026, 6:50:04 AM CDT | USER-304000 | closed_incomplete | development | FCF Spreadsheet Model
+- Sep 26, 2026, 6:49:37 AM CDT | USER-202000 | in_progress | development | FCF Model Application
 - Sep 26, 2026, 6:48:46 AM CDT | USER-628000 | done | development | FCF Python Sheets Generator
-- Sep 26, 2026, 6:48:43 AM CDT | USER-176000 | in_progress | development | Configure Python Dependencies
-- Sep 26, 2026, 6:48:38 AM CDT | USER-98000 | in_progress | development | FCF Model Computation
-- Sep 26, 2026, 6:47:01 AM CDT | USER-202000 | todo | development | FCF Model Application
 - Sep 26, 2026, 6:46:38 AM CDT | USER-407000 | in_progress | development | FCF Model Structure
 - Sep 26, 2026, 6:45:44 AM CDT | USER-449000 | closed_incomplete | development | Scaffold Python Project
 - Sep 26, 2026, 6:45:19 AM CDT | USER-759000 | closed_incomplete | development | FCF Computation Engine
@@ -27,7 +30,6 @@
 - Sep 26, 2026, 6:33:42 AM CDT | USER-671000 | in_progress | development | Populate FCF Data Sheets
 - Sep 26, 2026, 6:33:42 AM CDT | USER-618000 | in_progress | development | FCF Calculation Model
 - Sep 26, 2026, 6:33:42 AM CDT | USER-174000 | in_progress | development | Google Sheets Integration
-- Sep 26, 2026, 6:33:08 AM CDT | USER-988000 | in_progress | development | FCF Calculation Engine
 - Sep 26, 2026, 6:33:08 AM CDT | USER-220000 | in_progress | development | Implement Google Sheets Client
 - Sep 26, 2026, 6:27:52 AM CDT | USER-279000 | closed_incomplete | development | Create FCF Model Template
 - Sep 26, 2026, 6:26:53 AM CDT | USER-340000 | closed_incomplete | development | Google Sheets Model Builder

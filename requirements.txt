@@ -1,1 +1,6 @@
-All three dependency files are now configured with the complete set of packages for Google Sheets API access and data processing.
+gspread>=5.7.0
+google-auth>=2.15.0
+google-auth-oauthlib>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0

@@ -1,15 +1,15 @@
 [project]
-name = "sgtest-fcf-model"
+name = "sgtest-fcf"
 version = "0.1.0"
-description = "FCF (Free Cash Flow) Model with Google Sheets Integration"
+description = "FCF Google Sheets model"
 requires-python = ">=3.9"
 dependencies = [
+    "gspread>=5.7.0",
     "google-auth>=2.15.0",
-    "google-api-python-client>=2.96.0",
-    "gspread>=5.12.0",
+    "google-auth-oauthlib>=1.0.0",
     "pandas>=2.0.0",
     "numpy>=1.24.0",
-    "python-dotenv>=1.0.0",
+    "openpyxl>=3.1.0",
 ]
 
 [build-system]
@@ -19,8 +19,6 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 where = ["src"]
 
-[project.optional-dependencies]
-dev = [
-    "pytest>=7.0",
-    "pytest-cov>=4.0",
-]
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
