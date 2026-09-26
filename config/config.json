@@ -1,0 +1,5 @@
+{
+  "credentials_file": "credentials.json",
+  "spreadsheet_title": "Free Cash Flow Analysis",
+  "tabs": ["Assumptions", "Operating Cash Flow", "Capex", "Free Cash Flow Summary"]
+}
